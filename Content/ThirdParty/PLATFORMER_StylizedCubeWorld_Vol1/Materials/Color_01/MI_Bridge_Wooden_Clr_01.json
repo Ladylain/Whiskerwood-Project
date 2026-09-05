@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "BC": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/WoodTexture_T_Bridge_Wooden_Clr_01_BC2.WoodTexture_T_Bridge_Wooden_Clr_01_BC2",
+    "WoodTexture_T_Bridge_Wooden_Clr_01_BC2": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/WoodTexture_T_Bridge_Wooden_Clr_01_BC2.WoodTexture_T_Bridge_Wooden_Clr_01_BC2",
+    "N": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_Bridge_Wooden_N.T_Bridge_Wooden_N",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_Bridge_Wooden_N.T_Bridge_Wooden_N",
+    "T_Bridge_Wooden_N": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_Bridge_Wooden_N.T_Bridge_Wooden_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_Bridge_Wooden_ORM.T_Bridge_Wooden_ORM",
+    "ORM": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_Bridge_Wooden_ORM.T_Bridge_Wooden_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

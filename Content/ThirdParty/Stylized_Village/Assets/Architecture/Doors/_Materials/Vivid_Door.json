@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Doors/_Textures/T_Doors_01_BC.T_Doors_01_BC",
+    "T_Doors_01_BC": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Doors/_Textures/T_Doors_01_BC.T_Doors_01_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Doors/_Textures/T_Doors_01_N.T_Doors_01_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Doors/_Textures/T_Doors_01_N.T_Doors_01_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Doors/_Textures/T_Doors_01_MRO.T_Doors_01_MRO",
+    "ORM": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Doors/_Textures/T_Doors_01_MRO.T_Doors_01_MRO"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.838542,
+        "G": 0.60153,
+        "B": 0.384332,
+        "A": 1.0,
+        "Hex": "ECCCA7"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.21473,
+      "SpecularScale": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTint": true,
+      "UseObjectHeat": true,
+      "UseORMTexture": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

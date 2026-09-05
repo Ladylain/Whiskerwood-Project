@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "BC": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_JumpPad_Clr_01_BC.T_JumpPad_Clr_01_BC",
+    "T_JumpPad_Clr_01_BC": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_JumpPad_Clr_01_BC.T_JumpPad_Clr_01_BC",
+    "N": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_JumpPad_N.T_JumpPad_N",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_JumpPad_N.T_JumpPad_N",
+    "T_JumpPad_N": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_JumpPad_N.T_JumpPad_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_JumpPad_ORM.T_JumpPad_ORM",
+    "ORM": "Whiskerwood/Content/ThirdParty/PLATFORMER_StylizedCubeWorld_Vol1/Textures/Color_01/T_JumpPad_ORM.T_JumpPad_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/WaterMill/Textures/Props/Props3_D.Props3_D",
+    "Diffuse": "Whiskerwood/Content/ThirdParty/WaterMill/Textures/Props/Props3_D.Props3_D",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/WaterMill/Textures/Props/Props3_N.Props3_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/WaterMill/Textures/Props/Props3_N.Props3_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "diffuse color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Metallic": 1.0,
+      "Roughness": 1.0,
+      "spec": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "add metall alpha": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

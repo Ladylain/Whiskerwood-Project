@@ -1,0 +1,55 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/WaterMill/Textures/Flora/Flora_D.Flora_D",
+    "Diffuse": "Whiskerwood/Content/ThirdParty/WaterMill/Textures/Flora/Flora_D.Flora_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "diffuse color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "GroundColor": {
+        "R": 0.01033,
+        "G": 0.049707,
+        "B": 0.048172,
+        "A": 1.0,
+        "Hex": "1A3F3E"
+      }
+    },
+    "Scalars": {
+      "wind weight": 1.5,
+      "WindHeightOffset": 0.0,
+      "WindHeightScale": 0.0,
+      "Metallic": 0.0,
+      "Spec": 0.01,
+      "black add": 1.0,
+      "GrouindBlendHeight": -1.424068,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseGroundBlend": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

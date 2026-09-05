@@ -1,0 +1,63 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Foliage/Ivy/_Textures/T_Ivy_BaseColor.T_Ivy_BaseColor",
+    "Diffuse": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Foliage/Ivy/_Textures/T_Ivy_BaseColor.T_Ivy_BaseColor",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Foliage/Ivy/_Textures/T_Ivy_Normal.T_Ivy_Normal",
+    "NormalTexture": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Foliage/Ivy/_Textures/T_Ivy_Normal.T_Ivy_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "GroundColor": {
+        "R": 0.067708,
+        "G": 0.001422,
+        "B": 0.025914,
+        "A": 1.0,
+        "Hex": "49042C"
+      },
+      "TintCommon": {
+        "R": 0.1875,
+        "G": 0.169646,
+        "B": 0.07678,
+        "A": 1.0,
+        "Hex": "78724E"
+      },
+      "TintRare": {
+        "R": 0.260417,
+        "G": 0.206365,
+        "B": 0.107151,
+        "A": 1.0,
+        "Hex": "8C7D5C"
+      }
+    },
+    "Scalars": {
+      "GrouindBlendHeight": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "AllowWpoAnimation": false,
+      "UseDesaturation": true,
+      "UseGroundBlend": false,
+      "UseNormalTexture": true,
+      "UseGroundDarkening": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_DitheredLODTransition": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

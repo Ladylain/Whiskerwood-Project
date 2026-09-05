@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_BC.T_ClayPots_BC",
+    "Main_Albedo": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_BC.T_ClayPots_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_N.T_ClayPots_N",
+    "Main_Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_N.T_ClayPots_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_MRO.T_ClayPots_MRO",
+    "Main_MRO(H)": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_MRO.T_ClayPots_MRO"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Snow_Border": -0.117909,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

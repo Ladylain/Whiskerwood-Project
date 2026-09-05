@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Furniture/_Textures/T_ShelvesAndLadders_01_BC.T_ShelvesAndLadders_01_BC",
+    "T_ShelvesAndLadders_01_BC": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Furniture/_Textures/T_ShelvesAndLadders_01_BC.T_ShelvesAndLadders_01_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Furniture/_Textures/T_ShelvesAndLadders_01_N.T_ShelvesAndLadders_01_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Furniture/_Textures/T_ShelvesAndLadders_01_N.T_ShelvesAndLadders_01_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Furniture/_Textures/T_ShelvesAndLadders_01_MRO.T_ShelvesAndLadders_01_MRO",
+    "ORM": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Furniture/_Textures/T_ShelvesAndLadders_01_MRO.T_ShelvesAndLadders_01_MRO"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 1.0,
+        "G": 0.702445,
+        "B": 0.619792,
+        "A": 0.0,
+        "Hex": "FFDBCF"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.21473,
+      "SpecularScale": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTint": true,
+      "UseObjectHeat": true,
+      "UseORMTexture": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

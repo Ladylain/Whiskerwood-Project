@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Lavender_BCO.T_Plant_Lavender_BCO",
+    "IN_BaseColor": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Lavender_BCO.T_Plant_Lavender_BCO",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Lavender_N.T_Plant_Lavender_N",
+    "IN_Normal": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Lavender_N.T_Plant_Lavender_N",
+    "IN_RTA": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Lavender_RTA.T_Plant_Lavender_RTA",
+    "T_Plant_Lavender_RTA": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Lavender_RTA.T_Plant_Lavender_RTA"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 6,
+    "Colors": {
+      "SSS_Tint": {
+        "R": 0.939709,
+        "G": 1.0,
+        "B": 0.49118,
+        "A": 1.0,
+        "Hex": "F9FFBA"
+      }
+    },
+    "Scalars": {
+      "SSS_Intensity": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Enable_SSS": true,
+      "SSS Mask": true,
+      "Enable_DoubleSidedNormal": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_TwoSidedFoliage",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Textures": {},
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Colour": {
+        "R": 0.08497,
+        "G": 0.090502,
+        "B": 0.104167,
+        "A": 1.0,
+        "Hex": "52555B"
+      }
+    },
+    "Scalars": {
+      "Opacity": 205.99403,
+      "WPO_Vertex_Intensity": 0.0,
+      "DirectionalFoam1_Intensity": 0.762364,
+      "DirectionalFoam2_Intensity": 0.402105,
+      "DirectionalFoam3_Intensity": 0.388,
+      "DirectionalFoam4_Intensity": 0.448,
+      "DirectionalFoam_Intensity": 0.452,
+      "Foam_Intensity": -0.06,
+      "Foam_WPO_Intensity": 0.0,
+      "Foam_WPO_Scale": -0.112744,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_TranslucentGreyTransmittance",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": true
+  }
+}

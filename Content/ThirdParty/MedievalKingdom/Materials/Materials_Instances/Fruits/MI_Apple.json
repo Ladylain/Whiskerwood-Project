@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Fruits/Apples/T_Apple_BC.T_Apple_BC",
+    "T_Apple_BC": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Fruits/Apples/T_Apple_BC.T_Apple_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Fruits/Apples/T_Apple_N.T_Apple_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Fruits/Apples/T_Apple_N.T_Apple_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.567708,
+        "G": 0.060942,
+        "B": 0.01571,
+        "A": 1.0,
+        "Hex": "C74621"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTint": true,
+      "AllowSnow": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

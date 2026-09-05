@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "Ambient_Occlusion": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_AO.T_Banners_AO",
+    "T_Banners_AO": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_AO.T_Banners_AO",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_BC.T_Banners_BC",
+    "Diffuse/Alpha": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_BC.T_Banners_BC",
+    "MetallicSmoothness": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_MT.T_Banners_MT",
+    "T_Banners_MT": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_MT.T_Banners_MT",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_N.T_Banners_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Banners_texture/T_Banners_N.T_Banners_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Opacity_Intensity": 0.5,
+      "Roughness_Intensity": 1.219048,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

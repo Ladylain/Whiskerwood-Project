@@ -1,0 +1,53 @@
+{
+  "Textures": {
+    "Ambient_Occlusion": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_AO.T_Veggies_AO",
+    "T_Veggies_AO": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_AO.T_Veggies_AO",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_BC.T_Veggies_BC",
+    "Diffuse/Alpha": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_BC.T_Veggies_BC",
+    "MetallicSmoothness": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_MT.T_Veggies_MT",
+    "T_Veggies_MT": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_MT.T_Veggies_MT",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_N.T_Veggies_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_N.T_Veggies_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.253414,
+        "G": 0.265625,
+        "B": 0.093608,
+        "A": 0.0,
+        "Hex": "8A8D56"
+      }
+    },
+    "Scalars": {
+      "Distance to mesh": 34.285717,
+      "Distance_to_mesh_MaxOffset": 15.0,
+      "Distance_to_mesh_Strenght": 3904.762,
+      "Large_Wind_Scale": 4096.0,
+      "LargeWind_intensity": 0.266667,
+      "Normal_Intensity": 1.0,
+      "Roughness_Intensity": 1.0,
+      "Small_Wind_Scale": 512.0,
+      "SmallWind_intensity": 0.095238,
+      "Specularity": 0.142857,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "AO(R) Roughness(G) Metallic(B)": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Fence/T_Fence_ao_r_m.T_Fence_ao_r_m",
+    "T_Fence_ao_r_m": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Fence/T_Fence_ao_r_m.T_Fence_ao_r_m",
+    "Base Color": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Fence/WoodTexture_T_Fence_bc.WoodTexture_T_Fence_bc",
+    "WoodTexture_T_Fence_bc": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Fence/WoodTexture_T_Fence_bc.WoodTexture_T_Fence_bc",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Fence/T_Fence_n.T_Fence_n",
+    "Normal": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Fence/T_Fence_n.T_Fence_n"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Roughness": 0.24,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

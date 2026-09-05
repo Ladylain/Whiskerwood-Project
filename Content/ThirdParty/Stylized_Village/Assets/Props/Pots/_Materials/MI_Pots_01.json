@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_White_BC.T_ClayPots_White_BC",
+    "Main_Albedo": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_White_BC.T_ClayPots_White_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_White_N.T_ClayPots_White_N",
+    "Main_Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_White_N.T_ClayPots_White_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_White_MRO.T_ClayPots_White_MRO",
+    "Main_MRO(H)": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Pots/_Textures/T_ClayPots_White_MRO.T_ClayPots_White_MRO"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Main_AlbedoTint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Snow_Border": -0.117909,
+      "Snow_MaskSmoothness": 0.506144,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

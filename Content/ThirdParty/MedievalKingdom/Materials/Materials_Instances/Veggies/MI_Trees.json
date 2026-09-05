@@ -1,0 +1,36 @@
+{
+  "Textures": {
+    "Ambient_Occlusion": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_AO.T_Trees_AO",
+    "T_Trees_AO": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_AO.T_Trees_AO",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_BC.T_Trees_BC",
+    "Diffuse/Alpha": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_BC.T_Trees_BC",
+    "MetallicSmoothness": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_MT.T_Trees_MT",
+    "T_Trees_MT": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_MT.T_Trees_MT",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_N.T_Trees_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Trees/T_Trees_N.T_Trees_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Normal_Intensity": 1.0,
+      "Roughness_Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

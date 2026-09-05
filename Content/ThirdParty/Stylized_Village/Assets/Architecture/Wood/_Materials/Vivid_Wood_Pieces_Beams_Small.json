@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Wood/_Textures/T_Pieces_Beams_Small_BC.T_Pieces_Beams_Small_BC",
+    "T_Pieces_Beams_Small_BC": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Wood/_Textures/T_Pieces_Beams_Small_BC.T_Pieces_Beams_Small_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Wood/_Textures/T_Pieces_Beams_Small_N.T_Pieces_Beams_Small_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Wood/_Textures/T_Pieces_Beams_Small_N.T_Pieces_Beams_Small_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Wood/_Textures/T_Pieces_Beams_Small_MROH.T_Pieces_Beams_Small_MROH",
+    "ORM": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Wood/_Textures/T_Pieces_Beams_Small_MROH.T_Pieces_Beams_Small_MROH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.838799,
+        "G": 0.603828,
+        "B": 0.38643,
+        "A": 1.0,
+        "Hex": "ECCCA7"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.21473,
+      "SpecularScale": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTint": true,
+      "UseObjectHeat": true,
+      "UseORMTexture": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

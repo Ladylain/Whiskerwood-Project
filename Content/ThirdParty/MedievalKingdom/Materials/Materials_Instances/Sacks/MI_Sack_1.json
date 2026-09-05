@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Sacks/T_Sacks_BC.T_Sacks_BC",
+    "T_Sacks_BC": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Sacks/T_Sacks_BC.T_Sacks_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Sacks/T_Sacks_N.T_Sacks_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Sacks/T_Sacks_N.T_Sacks_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "AllowSnow": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

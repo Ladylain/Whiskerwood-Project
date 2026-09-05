@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Flagstone/_Textures/T_Flagstone_Flabasecolor.T_Flagstone_Flabasecolor",
+    "Macro Albedo": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Flagstone/_Textures/T_Flagstone_FullXFull_BC.T_Flagstone_FullXFull_BC",
+    "Main_Albedo": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Flagstone/_Textures/T_Flagstone_Flabasecolor.T_Flagstone_Flabasecolor",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Flagstone/_Textures/T_Flagstone_FullXFull_N.T_Flagstone_FullXFull_N",
+    "Main_Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Flagstone/_Textures/T_Flagstone_FullXFull_N.T_Flagstone_FullXFull_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Flagstone/_Textures/T_Flagstone_FullXFull_MROH.T_Flagstone_FullXFull_MROH",
+    "Main_MRO(H)": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Flagstone/_Textures/T_Flagstone_FullXFull_MROH.T_Flagstone_FullXFull_MROH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

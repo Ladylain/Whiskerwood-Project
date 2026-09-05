@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/TitanAssets/LargeOven/T_oven_bakery_D.T_oven_bakery_D",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/TitanAssets/LargeOven/T_oven_bakery_D.T_oven_bakery_D",
+    "T_oven_bakery_D": "Whiskerwood/Content/ThirdParty/TitanAssets/LargeOven/T_oven_bakery_D.T_oven_bakery_D",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/TitanAssets/LargeOven/T_oven_bakery_N.T_oven_bakery_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/TitanAssets/LargeOven/T_oven_bakery_N.T_oven_bakery_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.479167,
+        "G": 0.413718,
+        "B": 0.381836,
+        "A": 1.0,
+        "Hex": "B8ACA6"
+      }
+    },
+    "Scalars": {
+      "Contrast": 1.0,
+      "Desaturation": 0.21473,
+      "SpecularScale": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTint": true,
+      "UseORMTexture": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

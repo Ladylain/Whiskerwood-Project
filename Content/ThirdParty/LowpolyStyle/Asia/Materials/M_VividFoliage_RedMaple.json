@@ -1,0 +1,75 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/LowpolyStyle/Asia/Textures/T_MapleLeaf_larger.T_MapleLeaf_larger",
+    "Diffuse": "Whiskerwood/Content/ThirdParty/LowpolyStyle/Asia/Textures/T_MapleLeaf_larger.T_MapleLeaf_larger",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Foliage/Ivy/_Textures/T_Ivy_Normal.T_Ivy_Normal",
+    "NormalTexture": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Foliage/Ivy/_Textures/T_Ivy_Normal.T_Ivy_Normal"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "diffuse color": {
+        "R": 0.869792,
+        "G": 0.653156,
+        "B": 0.507703,
+        "A": 1.0,
+        "Hex": "F0D4BD"
+      },
+      "GroundColor": {
+        "R": 0.067708,
+        "G": 0.001422,
+        "B": 0.025914,
+        "A": 1.0,
+        "Hex": "49042C"
+      },
+      "TintCommon": {
+        "R": 0.1875,
+        "G": 0.169646,
+        "B": 0.07678,
+        "A": 1.0,
+        "Hex": "78724E"
+      },
+      "TintRare": {
+        "R": 0.260417,
+        "G": 0.206365,
+        "B": 0.107151,
+        "A": 1.0,
+        "Hex": "8C7D5C"
+      }
+    },
+    "Scalars": {
+      "wind weight": 0.02,
+      "desaturation": 0.133477,
+      "LightSnowFactor": -20.0,
+      "GrouindBlendHeight": 0.0,
+      "SnowMultiplier": 40.0,
+      "SnowSlopeMultiplier": 1.667988,
+      "SnowSlopeOffset": 2.553205,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "AllowWpoAnimation": true,
+      "UseGroundBlend": false,
+      "UseNormalTexture": true,
+      "AllowVertexSnowLimit": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_DitheredLODTransition": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

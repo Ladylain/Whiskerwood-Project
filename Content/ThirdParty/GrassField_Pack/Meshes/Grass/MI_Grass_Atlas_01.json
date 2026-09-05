@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Grass_Field_BCO.T_Plant_Grass_Field_BCO",
+    "IN_BaseColor": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Grass_Field_BCO.T_Plant_Grass_Field_BCO",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Grass_Field_N.T_Plant_Grass_Field_N",
+    "IN_Normal": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Grass_Field_N.T_Plant_Grass_Field_N",
+    "IN_RTA": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Grass_Field_RTA.T_Plant_Grass_Field_RTA",
+    "T_Plant_Grass_Field_RTA": "Whiskerwood/Content/ThirdParty/GrassField_Pack/Textures/Unique/T_Plant_Grass_Field_RTA.T_Plant_Grass_Field_RTA"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 6,
+    "Colors": {
+      "BaseColor_Tint": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SSS_Tint": {
+        "R": 0.776344,
+        "G": 1.0,
+        "B": 0.268228,
+        "A": 1.0,
+        "Hex": "E4FF8E"
+      }
+    },
+    "Scalars": {
+      "Roughness_Intensity": 0.8,
+      "SSS_Intensity": 1.2,
+      "BackFace_Specular": 1.0,
+      "Wind_Large_Scale": 0.002,
+      "Wind_Large_Intensity": 5.0,
+      "Wind_Large_Speed": 0.1,
+      "Wind_Small_Scale": 0.02,
+      "Wind_Small_Intensity": 0.5,
+      "Wind_Small_Speed": 0.03,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Enable_DoubleSidedNormal": true,
+      "Enable_Wind": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_TwoSidedFoliage",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

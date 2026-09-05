@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/TitanAssets/Driftwood/T_Grassland_OliveTreeBark_D.T_Grassland_OliveTreeBark_D",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/TitanAssets/Driftwood/T_Grassland_OliveTreeBark_D.T_Grassland_OliveTreeBark_D",
+    "T_Grassland_OliveTreeBark_D": "Whiskerwood/Content/ThirdParty/TitanAssets/Driftwood/T_Grassland_OliveTreeBark_D.T_Grassland_OliveTreeBark_D",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/TitanAssets/Driftwood/T_Grassland_OliveTreeBark_N.T_Grassland_OliveTreeBark_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/TitanAssets/Driftwood/T_Grassland_OliveTreeBark_N.T_Grassland_OliveTreeBark_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 1.0,
+        "G": 0.616847,
+        "B": 0.510417,
+        "A": 0.0,
+        "Hex": "FFCEBD"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.21473,
+      "SpecularScale": 0.01,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseORMTexture": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

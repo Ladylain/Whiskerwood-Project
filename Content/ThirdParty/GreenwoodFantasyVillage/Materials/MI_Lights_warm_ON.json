@@ -1,0 +1,43 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Lights/WoodTexture_T_Lights_bc.WoodTexture_T_Lights_bc",
+    "WoodTexture_T_Lights_bc": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Lights/WoodTexture_T_Lights_bc.WoodTexture_T_Lights_bc",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Lights/T_Lights_n.T_Lights_n",
+    "Normal": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Lights/T_Lights_n.T_Lights_n"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.552757,
+        "G": 0.630208,
+        "B": 0.425016,
+        "A": 1.0,
+        "Hex": "C4D0AF"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseDesaturation": true,
+      "UseTint": true,
+      "UseObjectHeat": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

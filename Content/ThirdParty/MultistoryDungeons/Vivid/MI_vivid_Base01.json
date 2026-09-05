@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/MultistoryDungeons/Meshes/Atlas_Base_01.Atlas_Base_01",
+    "Atlas_Base_01": "Whiskerwood/Content/ThirdParty/MultistoryDungeons/Meshes/Atlas_Base_01.Atlas_Base_01",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MultistoryDungeons/Textures/Atlas_Base_01_Normal.Atlas_Base_01_Normal",
+    "Normal": "Whiskerwood/Content/ThirdParty/MultistoryDungeons/Textures/Atlas_Base_01_Normal.Atlas_Base_01_Normal",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/MultistoryDungeons/Textures/Atlas_Base_01_Roughness.Atlas_Base_01_Roughness",
+    "ORM": "Whiskerwood/Content/ThirdParty/MultistoryDungeons/Textures/Atlas_Base_01_Roughness.Atlas_Base_01_Roughness"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.723958,
+        "G": 0.723958,
+        "B": 0.723958,
+        "A": 1.0,
+        "Hex": "DDDDDD"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseDesaturation": true,
+      "UseTint": true,
+      "UseObjectHeat": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_D.T_Lanterns_D",
+    "Main_Albedo": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_D.T_Lanterns_D",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_N.T_Lanterns_N",
+    "Main_Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_N.T_Lanterns_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_MRO.T_Lanterns_MRO",
+    "Main_MRO(H)": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_MRO.T_Lanterns_MRO",
+    "PM_Emissive": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_E.T_Lanterns_E",
+    "Main_Tint/Emissive": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Props/Lanterns/Textures/T_Lanterns_E.T_Lanterns_E"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Main_EmissiveColor": {
+        "R": 0.619792,
+        "G": 0.082434,
+        "B": 0.0,
+        "A": 50.0,
+        "Hex": "CF5100"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "3_Snow Layer?": false,
+      "Emissive?": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

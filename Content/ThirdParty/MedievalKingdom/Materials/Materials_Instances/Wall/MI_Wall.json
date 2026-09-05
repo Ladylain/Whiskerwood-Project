@@ -1,0 +1,50 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_BC.T_Walls_BC",
+    "Diffuse/Alpha": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_BC.T_Walls_BC",
+    "PM_Emissive": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_E.T_Walls_E",
+    "Emission": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_E.T_Walls_E",
+    "MetallicSmoothness": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_MT.T_Walls_MT",
+    "T_Walls_MT": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_MT.T_Walls_MT",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_N.T_Walls_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_N.T_Walls_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 1.25,
+        "G": 1.25,
+        "B": 1.25,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Emmisive_Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Emmisive_Intensity": 10.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

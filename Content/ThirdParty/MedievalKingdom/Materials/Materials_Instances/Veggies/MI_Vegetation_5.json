@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "Ambient_Occlusion": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_AO.T_Veggies_AO",
+    "T_Veggies_AO": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_AO.T_Veggies_AO",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_BC.T_Veggies_BC",
+    "Diffuse/Alpha": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_BC.T_Veggies_BC",
+    "MetallicSmoothness": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_MT.T_Veggies_MT",
+    "T_Veggies_MT": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_MT.T_Veggies_MT",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_N.T_Veggies_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Veggies/T_Veggies_N.T_Veggies_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Diffuse_Color": {
+        "R": 0.213542,
+        "G": 0.120651,
+        "B": 0.066732,
+        "A": 1.0,
+        "Hex": "7F6149"
+      },
+      "Subsurface_Color": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Large_Wind_Scale": 2048.0,
+      "LargeWind_intensity": 0.361905,
+      "Normal_Intensity": 1.0,
+      "Roughness_Intensity": 1.0,
+      "Small_Wind_Scale": 512.0,
+      "SmallWind_intensity": 0.171428,
+      "Specularity": 0.142857,
+      "Subsurface_Intensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

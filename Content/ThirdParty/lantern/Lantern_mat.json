@@ -1,0 +1,77 @@
+{
+  "Textures": {
+    "TerrainVolumeMetaDataOne": "Whiskerwood/Content/Code/Systems/TerrainVisualization/ProcGenBlock/TerrainVolumeMetaDataOne.TerrainVolumeMetaDataOne",
+    "TerrainPlanarMetaDataOne": "Whiskerwood/Content/Code/Systems/TerrainVisualization/ProcGenBlock/TerrainPlanarMetaDataOne.TerrainPlanarMetaDataOne",
+    "TerrainVolumeMetaDataTwo": "Whiskerwood/Content/Code/Systems/TerrainVisualization/ProcGenBlock/TerrainVolumeMetaDataTwo.TerrainVolumeMetaDataTwo",
+    "TerrainPlanarMetaDataTwo": "Whiskerwood/Content/Code/Systems/TerrainVisualization/ProcGenBlock/TerrainPlanarMetaDataTwo.TerrainPlanarMetaDataTwo",
+    "TerrainPlanarMetaDataThree": "Whiskerwood/Content/Code/Systems/TerrainVisualization/ProcGenBlock/TerrainPlanarMetaDataThree.TerrainPlanarMetaDataThree",
+    "Good64x64TilingNoiseHighFreq": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq",
+    "HeatTexture": "Whiskerwood/Content/Code/Systems/HeatSystem/HeatTexture.HeatTexture",
+    "T_RiverBankRocks_tcnjehgs_4K_ORDp": "Whiskerwood/Content/Megascans/Surfaces/River_Bank_Rocks_tcnjehgs/T_RiverBankRocks_tcnjehgs_4K_ORDp.T_RiverBankRocks_tcnjehgs_4K_ORDp",
+    "T_Fresh_Windswept_Snow_ugjichedy_2K_N": "Whiskerwood/Content/Megascans/Surfaces/Fresh_Windswept_Snow_ugjichedy/T_Fresh_Windswept_Snow_ugjichedy_2K_N.T_Fresh_Windswept_Snow_ugjichedy_2K_N",
+    "T_Fresh_Windswept_Snow_ugjichedy_2K_D": "Whiskerwood/Content/Megascans/Surfaces/Fresh_Windswept_Snow_ugjichedy/T_Fresh_Windswept_Snow_ugjichedy_2K_D.T_Fresh_Windswept_Snow_ugjichedy_2K_D",
+    "HeatLUT_softedges_darkened": "Whiskerwood/Content/Code/Systems/HeatSystem/HeatLUT_softedges_darkened.HeatLUT_softedges_darkened",
+    "HeatSymbols": "Whiskerwood/Content/Assets/Textures/Symbols/HeatViz/HeatSymbols.HeatSymbols",
+    "lantern_Metallic": "Whiskerwood/Content/ThirdParty/lantern/lantern_Metallic.lantern_Metallic",
+    "lantern_Normal": "Whiskerwood/Content/ThirdParty/lantern/lantern_Normal.lantern_Normal",
+    "lantern_Base_Color": "Whiskerwood/Content/ThirdParty/lantern/lantern_Base_Color.lantern_Base_Color",
+    "lantern_Roughness": "Whiskerwood/Content/ThirdParty/lantern/lantern_Roughness.lantern_Roughness",
+    "lantern_Emissive": "Whiskerwood/Content/ThirdParty/lantern/lantern_Emissive.lantern_Emissive",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/lantern/lantern_Base_Color.lantern_Base_Color",
+    "PM_Emissive": "Whiskerwood/Content/ThirdParty/lantern/lantern_Emissive.lantern_Emissive",
+    "PM_Normals": "Whiskerwood/Content/Megascans/Surfaces/Fresh_Windswept_Snow_ugjichedy/T_Fresh_Windswept_Snow_ugjichedy_2K_N.T_Fresh_Windswept_Snow_ugjichedy_2K_N",
+    "SnowNormals": "Whiskerwood/Content/Megascans/Surfaces/Fresh_Windswept_Snow_ugjichedy/T_Fresh_Windswept_Snow_ugjichedy_2K_N.T_Fresh_Windswept_Snow_ugjichedy_2K_N",
+    "SnowTexture": "Whiskerwood/Content/Megascans/Surfaces/Fresh_Windswept_Snow_ugjichedy/T_Fresh_Windswept_Snow_ugjichedy_2K_D.T_Fresh_Windswept_Snow_ugjichedy_2K_D",
+    "HeatLut": "Whiskerwood/Content/Code/Systems/HeatSystem/HeatLUT_softedges_darkened.HeatLUT_softedges_darkened",
+    "PM_SpecularMasks": "Whiskerwood/Content/Code/Systems/TerrainVisualization/ProcGenBlock/TerrainPlanarMetaDataTwo.TerrainPlanarMetaDataTwo"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "SnowColor": {
+        "R": 0.41355,
+        "G": 0.473485,
+        "B": 0.713542,
+        "A": 1.0,
+        "Hex": "ACB7DC"
+      }
+    },
+    "Scalars": {
+      "MetaDataScale": 0.02,
+      "OreTraceBiasStrength": 0.0,
+      "Heat Texture X": 0.0,
+      "Heat Texture Y": 0.0,
+      "SnowSlopeMultiplier": 5.0,
+      "SnowSlopeOffset": -1.0,
+      "SnowNormalTiling": 0.003,
+      "SnowMaskTiling": 0.008,
+      "SnowMaskMultiplier": 1.0,
+      "SnowMultiplier": 40.0,
+      "SnowOffset": -24.5,
+      "MinSnowFlatness": 0.0,
+      "ThermalEmissiveRatio": 0.15,
+      "HeatSymbolTiling": 1.0,
+      "LightSnowFactor": -20.0,
+      "MaxSnowNormals": 1.0,
+      "NormalCameraDistanceMin": 0.0,
+      "NormalCameraDistanceFade": 0.001,
+      "MaxSnowFlatness": -2.0,
+      "Use Insulator Heat": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bUsedWithStaticLighting": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "PixelDepthOffsetMode": "EPixelDepthOffsetMode::PDOM_Legacy",
+      "StateId": "A1E93A36-42F49384-6F0412B0-6CA6FE1E",
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

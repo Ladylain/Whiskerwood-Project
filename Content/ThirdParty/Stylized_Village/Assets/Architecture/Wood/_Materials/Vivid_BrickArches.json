@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Brick/_Textures/T_Brick_Walls_Arch_Corner_BC.T_Brick_Walls_Arch_Corner_BC",
+    "T_Brick_Walls_Arch_Corner_BC": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Brick/_Textures/T_Brick_Walls_Arch_Corner_BC.T_Brick_Walls_Arch_Corner_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Brick/_Textures/T_Brick_Walls_Arch_Corner_N.T_Brick_Walls_Arch_Corner_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Brick/_Textures/T_Brick_Walls_Arch_Corner_N.T_Brick_Walls_Arch_Corner_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Brick/_Textures/T_Brick_Walls_Arch_Corner_MROH.T_Brick_Walls_Arch_Corner_MROH",
+    "ORM": "Whiskerwood/Content/ThirdParty/Stylized_Village/Assets/Architecture/Brick/_Textures/T_Brick_Walls_Arch_Corner_MROH.T_Brick_Walls_Arch_Corner_MROH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.243102,
+        "G": 0.270833,
+        "B": 0.21582,
+        "A": 1.0,
+        "Hex": "878E80"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.21473,
+      "SpecularScale": 0.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTint": true,
+      "UseObjectHeat": true,
+      "UseORMTexture": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/TitanAssets/logstairs/T_MI_Woodkit_A_B_D.T_MI_Woodkit_A_B_D",
+    "PM_Diffuse": "Whiskerwood/Content/ThirdParty/TitanAssets/logstairs/T_MI_Woodkit_A_B_D.T_MI_Woodkit_A_B_D",
+    "T_MI_Woodkit_A_B_D": "Whiskerwood/Content/ThirdParty/TitanAssets/logstairs/T_MI_Woodkit_A_B_D.T_MI_Woodkit_A_B_D",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/TitanAssets/logstairs/T_MI_Woodkit_A_B_N.T_MI_Woodkit_A_B_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/TitanAssets/logstairs/T_MI_Woodkit_A_B_N.T_MI_Woodkit_A_B_N",
+    "PM_SpecularMasks": "Whiskerwood/Content/ThirdParty/Chameleon/Textures/T_Black.T_Black",
+    "ORM": "Whiskerwood/Content/ThirdParty/Chameleon/Textures/T_Black.T_Black"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 1.0,
+        "G": 0.849831,
+        "B": 0.666667,
+        "A": 1.0,
+        "Hex": "FFEED6"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.21473,
+      "SpecularScale": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseTint": true,
+      "UseORMTexture": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

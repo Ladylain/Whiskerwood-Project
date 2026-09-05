@@ -1,0 +1,35 @@
+{
+  "Textures": {
+    "AO(R) Roughness(G) Metallic(B)": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Sunshade/T_Sunshade_ao_r_m.T_Sunshade_ao_r_m",
+    "T_Sunshade_ao_r_m": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Sunshade/T_Sunshade_ao_r_m.T_Sunshade_ao_r_m",
+    "Base Color": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Sunshade/T_Sunshade_bc.T_Sunshade_bc",
+    "T_Sunshade_bc": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Sunshade/T_Sunshade_bc.T_Sunshade_bc",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Sunshade/T_Sunshade_n.T_Sunshade_n",
+    "Normal": "Whiskerwood/Content/ThirdParty/GreenwoodFantasyVillage/Textures/Sunshade/T_Sunshade_n.T_Sunshade_n"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "AllowSnow": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

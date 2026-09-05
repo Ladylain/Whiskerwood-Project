@@ -1,0 +1,42 @@
+{
+  "Textures": {
+    "Albedio": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_BC.T_Walls_BC",
+    "T_Walls_BC": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_BC.T_Walls_BC",
+    "PM_Normals": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_N.T_Walls_N",
+    "Normal": "Whiskerwood/Content/ThirdParty/MedievalKingdom/Textures/Wall/T_Walls_N.T_Walls_N"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint": {
+        "R": 0.786458,
+        "G": 0.785971,
+        "B": 0.672648,
+        "A": 1.0,
+        "Hex": "E6E6D6"
+      }
+    },
+    "Scalars": {
+      "Desaturation": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseDesaturation": true,
+      "UseTint": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
